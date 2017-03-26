@@ -1,0 +1,13 @@
+@media only screen and (max-width: 767px) {
+  .anim-item {
+    margin-right: 2%;
+    width: 48%; }
+    .anim-item:nth-child(2n) {
+      margin-right: 0; } }
+
+@media only screen and (max-width: 510px) {
+  .anim-item {
+    margin-right: 0;
+    width: 100%; }
+    .anim-item:nth-child(2n) {
+      margin-right: 0; } }
